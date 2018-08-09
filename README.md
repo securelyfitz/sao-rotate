@@ -1,2 +1,6 @@
 # sao-rotate
-roates an SAO 90 degrees
+rotates an SAO 90 degrees
+
+
+see [microbadge](https://github.com/securelyfitz/microbadge) for moredetails
+
